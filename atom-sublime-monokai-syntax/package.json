@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-116812-8111-1owzcm7/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-116812-8111-1owzcm7/package.tgz",
+        "spec": "/tmp/d-116812-8111-1owzcm7/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-116812-8111-16rrptz"
+    ]
+  ],
+  "_from": "../d-116812-8111-1owzcm7/package.tgz",
+  "_id": "atom-sublime-monokai-syntax@0.3.11",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/atom-sublime-monokai-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-116812-8111-1owzcm7/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-116812-8111-1owzcm7/package.tgz",
+    "spec": "/tmp/d-116812-8111-1owzcm7/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-116812-8111-1owzcm7/package.tgz",
+  "_shasum": "998e6e5d5e2993799170d52b14743bb01909d110",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-116812-8111-1owzcm7/package.tgz",
+  "_where": "/tmp/apm-install-dir-116812-8111-16rrptz",
+  "bugs": {
+    "url": "https://github.com/odahcam/atom-sublime-monokai-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "A monokai theme, made with <3 and Vodka (kidding, was coffee again) for Sublime Text Monokai syntax lovers.",
+  "devDependencies": {},
+  "homepage": "https://github.com/odahcam/atom-sublime-monokai-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "monokai",
+    "sublime",
+    "odahcam",
+    "php",
+    "js"
+  ],
+  "license": "MIT",
+  "name": "atom-sublime-monokai-syntax",
+  "optionalDependencies": {},
+  "readme": "# A Monokai Theme\n## For Sublime Text Monokai theme lovers <3\n\nForked from https://github.com/dmoutal/sub-monokai/, but made more true to Sublime Text highlighting.\n\n**Install via APM:** `apm install atom-sublime-monokai-syntax`\n\n![alt text](https://github.com/odahcam/atom-sublime-monokai-syntax/raw/master/update/0.3.3.PNG \"Screenshot in 0.3.3 showing PHP, HTML and JS.\")\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odahcam/atom-sublime-monokai-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.3.11"
+}
